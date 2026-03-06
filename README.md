@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there 👋 I'm Sebastião Duarte Lucas
 
-<!--
-**Sebastiao31/Sebastiao31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at the **Universidade do Algarve (Portugal)** currently in my **2nd year**.
 
-Here are some ideas to get you started:
+I'm passionate about building useful products and exploring different areas of technology, especially **web development, AI, and modern application development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* Studying **Software Engineering** at Universidade do Algarve
+* Based in **Portugal**
+* Currently **learning and building new projects**
+* Interested in **Web Development, Frontend, Backend, AI, and Mobile Apps**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+* Python
+* JavaScript
+* TypeScript
+* C
+* Java
+
+### Frameworks & Tools
+
+* React
+* Next.js
+* Node.js
+* Git
+
+---
+
+## 📌 Featured Project
+
+###  EasyToLaunch
+
+**EasyToLaunch** is a **Next.js boilerplate** designed to help developers launch their SaaS products faster by providing a solid starting structure.
+
+🌐 Website: https://easytolaunch.dev
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/sebastiao-lucas/
+* Email: [sebastiaodlucas@gmail.com](mailto:sebastiaodlucas@gmail.com)
+
+---
+
+⭐ Always interested in learning new technologies and collaborating on interesting projects.
