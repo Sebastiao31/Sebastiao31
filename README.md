@@ -19,18 +19,15 @@ I'm passionate about building useful products and exploring different areas of t
 
 ### Languages
 
-* Python
-* JavaScript
-* TypeScript
-* C
-* Java
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,ts," />
+</p>
 
 ### Frameworks & Tools
 
-* React
-* Next.js
-* Node.js
-* Git
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,vscode,intellij,react,nextjs,nodejs,git" />
+</p>
 
 ---
 
