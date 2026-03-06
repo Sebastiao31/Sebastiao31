@@ -26,7 +26,7 @@ I'm passionate about building useful products and exploring different areas of t
 ### Frameworks & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,vscode,intellij,react,nextjs,nodejs,git" />
+  <img src="https://skillicons.dev/icons?i=windows,vscode,react,nextjs,nodejs,git" />
 </p>
 
 ---
