@@ -4,7 +4,6 @@ I'm a Software Engineering student at the **Universidade do Algarve (Portugal)**
 
 I'm passionate about building useful products and exploring different areas of technology, especially **web development, AI, and modern application development**.
 
----
 
 ## 🚀 About Me
 
@@ -13,7 +12,6 @@ I'm passionate about building useful products and exploring different areas of t
 * Currently **learning and building new projects**
 * Interested in **Web Development, Frontend, Backend, AI, and Mobile Apps**
 
----
 
 ## 🛠 Tech Stack
 
@@ -29,7 +27,6 @@ I'm passionate about building useful products and exploring different areas of t
   <img src="https://skillicons.dev/icons?i=windows,vscode,react,nextjs,nodejs,git" />
 </p>
 
----
 
 ## 📌 Featured Project
 
@@ -39,7 +36,6 @@ I'm passionate about building useful products and exploring different areas of t
 
 🌐 Website: https://easytolaunch.dev
 
----
 
 ## 📫 Connect With Me
 
